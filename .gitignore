@@ -15,8 +15,8 @@ __pycache__/
 
 # Secrets / local configuration
 .env
-.env.*
-!.env.example
+
+
 
 # Raw input media: keep these local, do not push to Git
 Videos/
@@ -48,9 +48,7 @@ phase1_validation/samples/*/audio.mp3
 # Generated sample video copies
 phase1_validation/samples/*/input.mp4
 
-# Tool outputs and generated reports
-phase1_validation/outputs/
-phase1_validation/reports/
+
 
 # Local model downloads can be large and reproducible
-phase1_validation/models/
+

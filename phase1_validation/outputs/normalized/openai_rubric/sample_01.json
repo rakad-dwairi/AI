@@ -1,0 +1,230 @@
+{
+  "tool": "openai_rubric",
+  "sample_id": "sample_01",
+  "status": "ok",
+  "factors": [
+    {
+      "factor_id": "criterion_score_37",
+      "factor_name": "Direct rubric score for Excel row 37",
+      "axis": "المحتوى",
+      "value": {
+        "criterion": "الرسائل الاتصالية",
+        "rating": "very_good",
+        "status": "scored",
+        "explanation": "المتحدث قدم 4 رسائل رئيسية واضحة ومكررة بشكل مناسب خلال الحديث، مما يدل على تركيز جيد للرسائل الاتصالية.",
+        "source": "openai_rubric"
+      },
+      "score": 85.0,
+      "confidence": 0.9,
+      "evidence": [
+        "يشربوا المياه قبل أن يعطشوا",
+        "استخدام المظلة لتجنب شععة الشمس",
+        "الاستظلال في الظل والابتعاد عن الإجهاد الحراري",
+        "استخدام الكمامة في حالة الازدحام الشديد"
+      ]
+    },
+    {
+      "factor_id": "criterion_score_38",
+      "factor_name": "Direct rubric score for Excel row 38",
+      "axis": "المحتوى",
+      "value": {
+        "criterion": "وضوح الرسائل(التركيز، المباشرة، بنية الرسالة)",
+        "rating": "not_scoreable",
+        "status": "partial",
+        "explanation": "يتطلب حساب دقيق لنسبة الجمل الخبرية، الحشو، طول الرسائل، وهي غير متوفرة من النص فقط.",
+        "source": "openai_rubric"
+      },
+      "score": null,
+      "confidence": 0.0,
+      "evidence": []
+    },
+    {
+      "factor_id": "criterion_score_40",
+      "factor_name": "Direct rubric score for Excel row 40",
+      "axis": "المحتوى",
+      "value": {
+        "criterion": "بنية المحتوى",
+        "rating": "not_scoreable",
+        "status": "partial",
+        "explanation": "تقييم وجود بنية واضحة يتطلب تحليل تفصيلي للمقاطع والعناصر البنيوية، غير متوفر من النص فقط.",
+        "source": "openai_rubric"
+      },
+      "score": null,
+      "confidence": 0.0,
+      "evidence": []
+    },
+    {
+      "factor_id": "criterion_score_42",
+      "factor_name": "Direct rubric score for Excel row 42",
+      "axis": "المحتوى",
+      "value": {
+        "criterion": "الاستهلال",
+        "rating": "excellent",
+        "status": "scored",
+        "explanation": "الخطاب يبدأ بعبارة ترحيبية وشكر واضحة وجاذبة تمهد للرسالة الرئيسية.",
+        "source": "openai_rubric"
+      },
+      "score": 100.0,
+      "confidence": 0.95,
+      "evidence": [
+        "أذن لكم متابعين الأعزاء وظيفي وظيفكم سعادة المتحدث الرسمي لوزارة الصحة في موسم الحج الأستاذ عبد العزيز عبد الباقي أستاذي حياك الله"
+      ]
+    },
+    {
+      "factor_id": "criterion_score_43",
+      "factor_name": "Direct rubric score for Excel row 43",
+      "axis": "المحتوى",
+      "value": {
+        "criterion": "الإقفال",
+        "rating": "very_good",
+        "status": "scored",
+        "explanation": "الختام يلخص الرسالة ويترك أثر تحفيزي مع دعوة ضمنية للالتزام بالإرشادات وشكر.",
+        "source": "openai_rubric"
+      },
+      "score": 90.0,
+      "confidence": 0.9,
+      "evidence": [
+        "مهم جدا أن نتأكد أن الحاج يستمر في أداء مناسكه بطمأنينة وسهولة ومأمونية وسلامة باتباع هذه الإرشادات شكرا"
+      ]
+    },
+    {
+      "factor_id": "criterion_score_44",
+      "factor_name": "Direct rubric score for Excel row 44",
+      "axis": "المحتوى",
+      "value": {
+        "criterion": "الاستمالات العقلانية",
+        "rating": "good",
+        "status": "scored",
+        "explanation": "الخطاب يحتوي على أدلة منطقية وعملية تدعم الرسائل مثل شرب الماء وتجنب الشمس والازدحام، مما يعكس استمالات عقلانية واضحة.",
+        "source": "openai_rubric"
+      },
+      "score": 80.0,
+      "confidence": 0.9,
+      "evidence": [
+        "يشربوا المياه قبل أن يعطشوا",
+        "تجنب شععة الشمس قدر الإمكان",
+        "استخدام الكمامة في حالة الازدحام الشديد"
+      ]
+    },
+    {
+      "factor_id": "criterion_score_46",
+      "factor_name": "Direct rubric score for Excel row 46",
+      "axis": "المحتوى",
+      "value": {
+        "criterion": "الاستمالات العاطفية",
+        "rating": "weak",
+        "status": "scored",
+        "explanation": "لا توجد استخدامات واضحة للعاطفة أو البلاغة مثل الأسئلة البلاغية أو المجاز أو الحديث عن المشاعر في النص.",
+        "source": "openai_rubric"
+      },
+      "score": 0.0,
+      "confidence": 0.95,
+      "evidence": []
+    },
+    {
+      "factor_id": "criterion_score_48",
+      "factor_name": "Direct rubric score for Excel row 48",
+      "axis": "المحتوى",
+      "value": {
+        "criterion": "اللغة: سليمة من الأخطاء، و العيوب",
+        "rating": "very_good",
+        "status": "scored",
+        "explanation": "اللغة المستخدمة سليمة من الأخطاء النحوية واللفظية، مع استخدام لغة فصحى مناسبة للخطاب الرسمي.",
+        "source": "openai_rubric"
+      },
+      "score": 90.0,
+      "confidence": 0.9,
+      "evidence": [
+        "النص خالٍ من الأخطاء النحوية الواضحة، ولا يحتوي على كلمات عامية أو تكرار زائد"
+      ]
+    },
+    {
+      "factor_id": "criterion_score_50",
+      "factor_name": "Direct rubric score for Excel row 50",
+      "axis": "المحتوى",
+      "value": {
+        "criterion": "مناسبة طول الحديث للمناسبة",
+        "rating": "not_scoreable",
+        "status": "partial",
+        "explanation": "تقييم طول الحديث يتطلب معرفة المدة الزمنية الفعلية والمناسبة، غير متوفرة في النص فقط.",
+        "source": "openai_rubric"
+      },
+      "score": null,
+      "confidence": 0.0,
+      "evidence": []
+    },
+    {
+      "factor_id": "criterion_score_53",
+      "factor_name": "Direct rubric score for Excel row 53",
+      "axis": "الأسئلة",
+      "value": {
+        "criterion": "التفاعل مع السائل و السؤال",
+        "rating": "very_good",
+        "status": "scored",
+        "explanation": "المتحدث استمع للسؤال، شكر السائل، وأجاب بشكل مباشر وواضح مع احترام السائل وعدم مقاطعته.",
+        "source": "openai_rubric"
+      },
+      "score": 85.0,
+      "confidence": 0.9,
+      "evidence": [
+        "حياك الله أخوي عبد العزيز مهم جدا للحجاج ...",
+        "الرد مباشر على السؤال حول أفضل السلوكيات للحاج"
+      ]
+    },
+    {
+      "factor_id": "criterion_score_54",
+      "factor_name": "Direct rubric score for Excel row 54",
+      "axis": "الأسئلة",
+      "value": {
+        "criterion": "الثبات الانفعالي",
+        "rating": "not_scoreable",
+        "status": "partial",
+        "explanation": "تقييم الثبات الانفعالي يتطلب بيانات صوتية وبصرية غير متوفرة في النص فقط.",
+        "source": "openai_rubric"
+      },
+      "score": null,
+      "confidence": 0.0,
+      "evidence": []
+    },
+    {
+      "factor_id": "criterion_score_55",
+      "factor_name": "Direct rubric score for Excel row 55",
+      "axis": "الأسئلة",
+      "value": {
+        "criterion": "القابلية للاقتباس و التداول",
+        "rating": "needs_development",
+        "status": "scored",
+        "explanation": "الجمل المقدمة واضحة لكنها ليست مركزة أو قوية بشكل كافٍ لتكون جملًا قابلة للاقتباس بسهولة في الإعلام أو منصات التواصل.",
+        "source": "openai_rubric"
+      },
+      "score": 70.0,
+      "confidence": 0.85,
+      "evidence": [
+        "يشربوا المياه قبل أن يعطشوا",
+        "استخدام الكمامة على الوجه في حالة الازدحام الشديد"
+      ]
+    },
+    {
+      "factor_id": "criterion_score_56",
+      "factor_name": "Direct rubric score for Excel row 56",
+      "axis": "الأسئلة",
+      "value": {
+        "criterion": "استراتيجات الإجابة",
+        "rating": "excellent",
+        "status": "scored",
+        "explanation": "المتحدث استخدم استراتيجيات إجابة واضحة مثل التحضير، التأطير، والتجسير في الرد على السؤال.",
+        "source": "openai_rubric"
+      },
+      "score": 100.0,
+      "confidence": 0.95,
+      "evidence": [
+        "بدأ بالترحيب والشكر",
+        "أجاب مباشرة على السؤال",
+        "قدم حلول واضحة ومحددة"
+      ]
+    }
+  ],
+  "notes": [
+    "Transcript-only rubric scoring. Visual, facial, body-language, and vocal-tone criteria are intentionally excluded."
+  ]
+}

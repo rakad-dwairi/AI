@@ -1,0 +1,80 @@
+{
+  "tool": "local_audio",
+  "sample_id": "sample_01",
+  "volume": {
+    "mean_volume_db": -25.9,
+    "max_volume_db": -2.0
+  },
+  "silence": {
+    "events": [
+      {
+        "start": 0.0,
+        "end": 0.63,
+        "duration": 0.63
+      },
+      {
+        "start": 8.68,
+        "end": 9.38,
+        "duration": 0.69
+      },
+      {
+        "start": 10.76,
+        "end": 11.27,
+        "duration": 0.5
+      },
+      {
+        "start": 19.99,
+        "end": 20.79,
+        "duration": 0.81
+      },
+      {
+        "start": 25.66,
+        "end": 26.52,
+        "duration": 0.86
+      },
+      {
+        "start": 28.67,
+        "end": 29.23,
+        "duration": 0.57
+      },
+      {
+        "start": 35.31,
+        "end": 36.03,
+        "duration": 0.72
+      },
+      {
+        "start": 50.29,
+        "end": 50.91,
+        "duration": 0.62
+      },
+      {
+        "start": 51.45,
+        "end": 52.03,
+        "duration": 0.57
+      },
+      {
+        "start": 58.6,
+        "end": 60.2,
+        "duration": 1.6
+      },
+      {
+        "start": 60.55,
+        "end": 62.3,
+        "duration": 1.75
+      },
+      {
+        "start": 62.3,
+        "end": 63.06,
+        "duration": 0.75
+      }
+    ]
+  },
+  "pitch": {
+    "min_pitch_hz": 91.43,
+    "max_pitch_hz": 192.77,
+    "mean_pitch_hz": 136.24,
+    "pitch_range_hz": 101.34,
+    "pitch_variation_hz": 40.49,
+    "voiced_frame_count": 1694
+  }
+}

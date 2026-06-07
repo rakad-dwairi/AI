@@ -1,0 +1,111 @@
+{
+  "tool": "local_audio",
+  "sample_id": "sample_01",
+  "status": "ok",
+  "factors": [
+    {
+      "factor_id": "volume_db",
+      "factor_name": "Audio loudness in dB",
+      "axis": "الأداء الصوتي",
+      "value": {
+        "mean_volume_db": -25.9,
+        "max_volume_db": -2.0
+      },
+      "score": 80.0,
+      "confidence": 0.65,
+      "evidence": []
+    },
+    {
+      "factor_id": "audio_silence_events",
+      "factor_name": "Audio silence events",
+      "axis": "الأداء الصوتي",
+      "value": {
+        "count": 12,
+        "events": [
+          {
+            "start": 0.0,
+            "end": 0.63,
+            "duration": 0.63
+          },
+          {
+            "start": 8.68,
+            "end": 9.38,
+            "duration": 0.69
+          },
+          {
+            "start": 10.76,
+            "end": 11.27,
+            "duration": 0.5
+          },
+          {
+            "start": 19.99,
+            "end": 20.79,
+            "duration": 0.81
+          },
+          {
+            "start": 25.66,
+            "end": 26.52,
+            "duration": 0.86
+          },
+          {
+            "start": 28.67,
+            "end": 29.23,
+            "duration": 0.57
+          },
+          {
+            "start": 35.31,
+            "end": 36.03,
+            "duration": 0.72
+          },
+          {
+            "start": 50.29,
+            "end": 50.91,
+            "duration": 0.62
+          },
+          {
+            "start": 51.45,
+            "end": 52.03,
+            "duration": 0.57
+          },
+          {
+            "start": 58.6,
+            "end": 60.2,
+            "duration": 1.6
+          }
+        ]
+      },
+      "score": null,
+      "confidence": 0.55,
+      "evidence": []
+    },
+    {
+      "factor_id": "pitch_range_hz",
+      "factor_name": "Pitch range in Hz",
+      "axis": "الأداء الصوتي",
+      "value": {
+        "min_pitch_hz": 91.43,
+        "max_pitch_hz": 192.77,
+        "pitch_range_hz": 101.34,
+        "voiced_frame_count": 1694
+      },
+      "score": 90.0,
+      "confidence": 0.55,
+      "evidence": []
+    },
+    {
+      "factor_id": "pitch_variation",
+      "factor_name": "Pitch variation / vocal coloring proxy",
+      "axis": "الأداء الصوتي",
+      "value": {
+        "pitch_variation_hz": 40.49,
+        "mean_pitch_hz": 136.24
+      },
+      "score": 90.0,
+      "confidence": 0.5,
+      "evidence": []
+    }
+  ],
+  "notes": [
+    "Local ffmpeg analysis; no external API cost."
+  ]
+}

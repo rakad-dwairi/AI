@@ -1,0 +1,150 @@
+{
+  "tool": "aws_rekognition",
+  "sample_id": "sample_01",
+  "status": "ok",
+  "factors": [
+    {
+      "factor_id": "face_detection",
+      "factor_name": "Face detection",
+      "axis": "لغة الجسد",
+      "value": {
+        "detections": 134,
+        "unique_timestamps": 128
+      },
+      "score": 90.0,
+      "confidence": 0.75,
+      "evidence": []
+    },
+    {
+      "factor_id": "activity_labels",
+      "factor_name": "General video labels / activities",
+      "axis": "لغة الجسد",
+      "value": {
+        "label_count": 1401,
+        "examples": [
+          "Accessories",
+          "Adult",
+          "Baby",
+          "Chair",
+          "Doctor",
+          "Face",
+          "Furniture",
+          "Glasses",
+          "Head",
+          "Jewelry",
+          "Male",
+          "Man",
+          "People",
+          "Person",
+          "Ring"
+        ]
+      },
+      "score": 80.0,
+      "confidence": 0.65,
+      "evidence": []
+    },
+    {
+      "factor_id": "gaze_direction",
+      "factor_name": "Head/gaze direction proxy",
+      "axis": "لغة الجسد",
+      "value": {
+        "frontal_rate": 0.396,
+        "left_count": 133,
+        "center_count": 1,
+        "right_count": 0,
+        "frontal_score": 50.0,
+        "distribution_score": 50.19,
+        "stability_score": 50.0
+      },
+      "score": 50.0,
+      "confidence": 0.55,
+      "evidence": [
+        "Computed from AWS face pose yaw/pitch as a gaze-direction proxy."
+      ]
+    },
+    {
+      "factor_id": "gaze_distribution",
+      "factor_name": "Gaze distribution proxy",
+      "axis": "لغة الجسد",
+      "value": {
+        "left_count": 133,
+        "center_count": 1,
+        "right_count": 0
+      },
+      "score": 50.19,
+      "confidence": 0.5,
+      "evidence": [
+        "Computed from left/center/right head pose distribution."
+      ]
+    },
+    {
+      "factor_id": "eye_contact_stability",
+      "factor_name": "Eye contact stability proxy",
+      "axis": "لغة الجسد",
+      "value": {
+        "frontal_rate": 0.396
+      },
+      "score": 50.0,
+      "confidence": 0.5,
+      "evidence": [
+        "Computed from percentage of face detections with mostly frontal yaw/pitch."
+      ]
+    },
+    {
+      "factor_id": "facial_expression",
+      "factor_name": "Facial expression proxy",
+      "axis": "لغة الجسد",
+      "value": {
+        "face_attribute_frames": 16,
+        "face_attribute_detections": 16,
+        "positive_expression_rate": 1.0,
+        "expression_score": 100.0,
+        "smile_rate_per_minute": 1.0,
+        "smile_rate_score": 95.0,
+        "smile_confidence_mean": 95.09,
+        "smile_authenticity_score": 95.09,
+        "blink_rate_per_minute": 0.0,
+        "blink_rate_score": 50.0
+      },
+      "score": 100.0,
+      "confidence": 0.55,
+      "evidence": [
+        "Computed from AWS DetectFaces emotions on sampled frames."
+      ]
+    },
+    {
+      "factor_id": "smile_rate",
+      "factor_name": "Smile rate from sampled frames",
+      "axis": "لغة الجسد",
+      "value": 1.0,
+      "score": 95.0,
+      "confidence": 0.55,
+      "evidence": [
+        "Computed from AWS DetectFaces Smile attribute on sampled frames."
+      ]
+    },
+    {
+      "factor_id": "smile_authenticity",
+      "factor_name": "Smile authenticity proxy",
+      "axis": "لغة الجسد",
+      "value": 95.09,
+      "score": 95.09,
+      "confidence": 0.45,
+      "evidence": [
+        "Proxy uses AWS smile confidence; not a full Duchenne smile analysis."
+      ]
+    },
+    {
+      "factor_id": "blink_rate",
+      "factor_name": "Blink rate / eyes closed proxy",
+      "axis": "لغة الجسد",
+      "value": 0.0,
+      "score": 50.0,
+      "confidence": 0.45,
+      "evidence": [
+        "Proxy counts sampled frames where eyes are not open."
+      ]
+    }
+  ],
+  "notes": []
+}

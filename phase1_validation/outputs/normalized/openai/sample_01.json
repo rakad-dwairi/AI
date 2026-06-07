@@ -1,0 +1,85 @@
+{
+  "tool": "openai",
+  "sample_id": "sample_01",
+  "status": "ok",
+  "factors": [
+    {
+      "factor_id": "transcript",
+      "factor_name": "Transcript availability",
+      "axis": "المحتوى",
+      "value": true,
+      "score": 100.0,
+      "confidence": 0.8,
+      "evidence": []
+    },
+    {
+      "factor_id": "filler_words",
+      "factor_name": "Filler words",
+      "axis": "المحتوى",
+      "value": {
+        "count": 0,
+        "examples": []
+      },
+      "score": 100.0,
+      "confidence": 0.55,
+      "evidence": []
+    },
+    {
+      "factor_id": "message_clarity",
+      "factor_name": "Message clarity proxy",
+      "axis": "المحتوى",
+      "value": {
+        "word_count": 107,
+        "sentence_count": 1
+      },
+      "score": 30.0,
+      "confidence": 0.45,
+      "evidence": []
+    },
+    {
+      "factor_id": "content_structure",
+      "factor_name": "Content structure proxy",
+      "axis": "المحتوى",
+      "value": {
+        "word_count": 107,
+        "sentence_count": 1
+      },
+      "score": 50.0,
+      "confidence": 0.45,
+      "evidence": []
+    },
+    {
+      "factor_id": "pronunciation_clarity",
+      "factor_name": "Pronunciation clarity proxy",
+      "axis": "الأداء الصوتي",
+      "value": {
+        "openai_deepgram_agreement": 0.013,
+        "score": 50.0,
+        "weak_letter_score": 50.0
+      },
+      "score": 50.0,
+      "confidence": 0.4,
+      "evidence": [
+        "Proxy based on OpenAI/Deepgram transcript agreement; not true PCC phoneme scoring."
+      ]
+    },
+    {
+      "factor_id": "weak_letter_detection",
+      "factor_name": "Weak-letter detection proxy",
+      "axis": "الأداء الصوتي",
+      "value": {
+        "openai_deepgram_agreement": 0.013,
+        "score": 50.0,
+        "weak_letter_score": 50.0
+      },
+      "score": 50.0,
+      "confidence": 0.3,
+      "evidence": [
+        "Proxy only. True weak-letter detection needs phoneme alignment or human reference transcript."
+      ]
+    }
+  ],
+  "notes": [
+    "This is a Phase 1 proxy. Final content scoring should use a stricter rubric prompt later."
+  ]
+}

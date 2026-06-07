@@ -1,0 +1,111 @@
+{
+  "tool": "deepgram",
+  "sample_id": "sample_01",
+  "status": "ok",
+  "factors": [
+    {
+      "factor_id": "transcript",
+      "factor_name": "Transcript availability",
+      "axis": "المحتوى",
+      "value": true,
+      "score": 100.0,
+      "confidence": 0.8,
+      "evidence": []
+    },
+    {
+      "factor_id": "words_per_minute",
+      "factor_name": "Speech speed",
+      "axis": "الأداء الصوتي",
+      "value": 102.98,
+      "score": 90.0,
+      "confidence": 0.7,
+      "evidence": []
+    },
+    {
+      "factor_id": "pause_count",
+      "factor_name": "Pause count",
+      "axis": "الأداء الصوتي",
+      "value": {
+        "count": 4,
+        "threshold_seconds": 0.5,
+        "examples": [
+          {
+            "start": 41.27,
+            "end": 41.9,
+            "duration": 0.62
+          },
+          {
+            "start": 46.53,
+            "end": 47.09,
+            "duration": 0.56
+          },
+          {
+            "start": 59.05,
+            "end": 60.17,
+            "duration": 1.12
+          },
+          {
+            "start": 60.89,
+            "end": 63.29,
+            "duration": 2.4
+          }
+        ]
+      },
+      "score": 60.0,
+      "confidence": 0.7,
+      "evidence": []
+    },
+    {
+      "factor_id": "pause_rate",
+      "factor_name": "Pauses per 100 words",
+      "axis": "الأداء الصوتي",
+      "value": 3.64,
+      "score": 60.0,
+      "confidence": 0.7,
+      "evidence": []
+    },
+    {
+      "factor_id": "actual_duration",
+      "factor_name": "Actual speaking duration",
+      "axis": "المحتوى",
+      "value": 64.09,
+      "score": null,
+      "confidence": 0.7,
+      "evidence": []
+    },
+    {
+      "factor_id": "expected_duration",
+      "factor_name": "Expected duration",
+      "axis": "المحتوى",
+      "value": 60.0,
+      "score": null,
+      "confidence": 0.7,
+      "evidence": []
+    },
+    {
+      "factor_id": "duration_suitability",
+      "factor_name": "Duration suitability",
+      "axis": "المحتوى",
+      "value": {
+        "actual_duration_seconds": 64.09,
+        "expected_duration_seconds": 60.0
+      },
+      "score": 95.0,
+      "confidence": 0.7,
+      "evidence": []
+    },
+    {
+      "factor_id": "speaker_timing",
+      "factor_name": "Speaker diarization / timing",
+      "axis": "الحوار",
+      "value": {
+        "speaker_count": 1,
+        "utterance_count": 20
+      },
+      "score": 85.0,
+      "confidence": 0.7,
+      "evidence": []
+    }
+  ],
+  "notes": []
+}

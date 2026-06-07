@@ -1,0 +1,138 @@
+{
+  "tool": "mediapipe",
+  "sample_id": "sample_01",
+  "status": "ok",
+  "factors": [
+    {
+      "factor_id": "face_visibility",
+      "factor_name": "Face visibility",
+      "axis": "لغة الجسد",
+      "value": 0.0,
+      "score": 0.0,
+      "confidence": 0.8,
+      "evidence": []
+    },
+    {
+      "factor_id": "body_visibility",
+      "factor_name": "Body / pose visibility",
+      "axis": "لغة الجسد",
+      "value": 0.986,
+      "score": 98.57,
+      "confidence": 0.85,
+      "evidence": []
+    },
+    {
+      "factor_id": "hand_visibility",
+      "factor_name": "Hand visibility",
+      "axis": "لغة الجسد",
+      "value": 0.943,
+      "score": 94.29,
+      "confidence": 0.85,
+      "evidence": []
+    },
+    {
+      "factor_id": "hand_movement",
+      "factor_name": "Hand movement intensity",
+      "axis": "لغة الجسد",
+      "value": {
+        "average_motion_intensity": 0.07793,
+        "movement_event_count": 43,
+        "movement_events_per_minute": 40.27,
+        "hand_visible_frames": 132,
+        "sampled_frames": 140,
+        "event_threshold": "wrist_motion >= 0.04"
+      },
+      "score": 85.0,
+      "confidence": 0.75,
+      "evidence": [
+        "Score is based on average wrist-motion intensity and hand visibility. Event count is reported for explanation."
+      ]
+    },
+    {
+      "factor_id": "body_movement",
+      "factor_name": "Overall body movement intensity",
+      "axis": "لغة الجسد",
+      "value": {
+        "average_motion_intensity": 0.03437,
+        "movement_event_count": 49,
+        "movement_events_per_minute": 45.89,
+        "sampled_frames": 140,
+        "event_threshold": "body_motion >= 0.03"
+      },
+      "score": 90.0,
+      "confidence": 0.7,
+      "evidence": [
+        "MediaPipe Tasks pose, hand, and face landmark models were used."
+      ]
+    },
+    {
+      "factor_id": "posture",
+      "factor_name": "Posture alignment proxy",
+      "axis": "لغة الجسد",
+      "value": 93.4,
+      "score": 93.4,
+      "confidence": 0.65,
+      "evidence": [
+        "Computed from pose landmark shoulder balance, head centering, and spine verticality."
+      ]
+    },
+    {
+      "factor_id": "body_repetition_rate",
+      "factor_name": "Repeated body movement rate",
+      "axis": "لغة الجسد",
+      "value": 16.86,
+      "score": 55.0,
+      "confidence": 0.6,
+      "evidence": [
+        "Computed from repeated body-motion spikes per minute."
+      ]
+    },
+    {
+      "factor_id": "gesture_classification",
+      "factor_name": "Gesture polarity proxy",
+      "axis": "لغة الجسد",
+      "value": {
+        "hand_visibility_rate": 0.943,
+        "hand_motion": 0.07793,
+        "hand_movement_event_count": 43,
+        "hand_movement_events_per_minute": 40.27,
+        "classification": "controlled_visible_hand_movement"
+      },
+      "score": 82.0,
+      "confidence": 0.45,
+      "evidence": [
+        "Proxy based on hand visibility and controlled movement; not semantic gesture recognition."
+      ]
+    },
+    {
+      "factor_id": "foot_stance_width",
+      "factor_name": "Foot stance width proxy",
+      "axis": "لغة الجسد",
+      "value": 68.22,
+      "score": 68.22,
+      "confidence": 0.45,
+      "evidence": [
+        "Computed from ankle distance relative to shoulder width when pose landmarks exist."
+      ]
+    },
+    {
+      "factor_id": "smile_rate",
+      "factor_name": "Smile rate",
+      "axis": "لغة الجسد",
+      "value": 0.0,
+      "score": 60.0,
+      "confidence": 0.0,
+      "evidence": []
+    },
+    {
+      "factor_id": "blink_rate",
+      "factor_name": "Blink rate",
+      "axis": "لغة الجسد",
+      "value": 0.0,
+      "score": 50.0,
+      "confidence": 0.0,
+      "evidence": []
+    }
+  ],
+  "notes": []
+}

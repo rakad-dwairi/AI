@@ -1,0 +1,2254 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "019e8db5-5bf7-7650-943a-0c45a9615100",
+    "sha256": "e3119d351fb688394f46aa434984cfbb8d06edd04a29a7d764e4abf049316f74",
+    "created": "2026-06-03T13:38:55.974Z",
+    "duration": 64.104,
+    "channels": 1,
+    "models": [
+      "c15d8236-8fe6-4789-95f6-35f8037a2e4f"
+    ],
+    "model_info": {
+      "c15d8236-8fe6-4789-95f6-35f8037a2e4f": {
+        "name": "general-nova-3",
+        "version": "2026-01-27.33458",
+        "arch": "nova-3"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "عدنا لكم متابعينا الأعزاء ضيفي وظيفةكم السعادة المتحدة الرسمي لمزارة الصحة في موسم الحج الأستاذ عبدالعزيز عبد الباقي أستاذي حياك الله اليوم مع اشتداد الحر ما هي افضل السلوكيات التي ممكن يقوم فيها الحاج خلال هذا الموسم حياك الله اخوي عبد العزيز مهم جدا للحجاج انهم يشربوا المياه قبل ان يعطشوا ويستمروا في ترويتهم يشربوا المياه كذلك انهم يستخدموا المظله تكون فوق راسهم وتجنب اشعه الشمس قدر الامكان كذلك انهم يستضلوا في الظل ويبتعدوا عن الاجهاد الحراري لحفاظا علي صحتهم واستخدام الكمامة علي الوجه في حالة الإزدحام الشديد مهم جدا أنه نتأكد أنه الحاج يستمر في أداء مناسكه بطمأنينة و سهولة و مأمونية و سلامة باتباع هذه الإرشادات شكرا أوك",
+            "confidence": 0.9589844,
+            "words": [
+              {
+                "word": "عدنا",
+                "start": 0.48,
+                "end": 0.88,
+                "confidence": 0.9003906,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "عدنا"
+              },
+              {
+                "word": "لكم",
+                "start": 0.88,
+                "end": 1.1999999,
+                "confidence": 0.9790039,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "لكم"
+              },
+              {
+                "word": "متابعينا",
+                "start": 1.1999999,
+                "end": 1.76,
+                "confidence": 0.7788086,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "متابعينا"
+              },
+              {
+                "word": "الأعزاء",
+                "start": 1.76,
+                "end": 2.24,
+                "confidence": 0.9404297,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الأعزاء"
+              },
+              {
+                "word": "ضيفي",
+                "start": 2.24,
+                "end": 2.72,
+                "confidence": 0.87719727,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "ضيفي"
+              },
+              {
+                "word": "وظيفةكم",
+                "start": 2.72,
+                "end": 3.1999998,
+                "confidence": 0.642334,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "وظيفةكم"
+              },
+              {
+                "word": "السعادة",
+                "start": 3.1999998,
+                "end": 3.52,
+                "confidence": 0.23657227,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "السعادة"
+              },
+              {
+                "word": "المتحدة",
+                "start": 3.52,
+                "end": 4.08,
+                "confidence": 0.71240234,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "المتحدة"
+              },
+              {
+                "word": "الرسمي",
+                "start": 4.08,
+                "end": 4.48,
+                "confidence": 0.9863281,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الرسمي"
+              },
+              {
+                "word": "لمزارة",
+                "start": 4.48,
+                "end": 5.3599997,
+                "confidence": 0.7597656,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "لمزارة"
+              },
+              {
+                "word": "الصحة",
+                "start": 5.3599997,
+                "end": 6.08,
+                "confidence": 0.5888672,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الصحة"
+              },
+              {
+                "word": "في",
+                "start": 6.08,
+                "end": 6.3999996,
+                "confidence": 0.91259766,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "في"
+              },
+              {
+                "word": "موسم",
+                "start": 6.3999996,
+                "end": 6.7999997,
+                "confidence": 1.0,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "موسم"
+              },
+              {
+                "word": "الحج",
+                "start": 6.7999997,
+                "end": 7.12,
+                "confidence": 0.96972656,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الحج"
+              },
+              {
+                "word": "الأستاذ",
+                "start": 7.12,
+                "end": 7.52,
+                "confidence": 0.8833008,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الأستاذ"
+              },
+              {
+                "word": "عبدالعزيز",
+                "start": 7.52,
+                "end": 8.0,
+                "confidence": 0.65625,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "عبدالعزيز"
+              },
+              {
+                "word": "عبد",
+                "start": 8.0,
+                "end": 8.32,
+                "confidence": 0.4206543,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "عبد"
+              },
+              {
+                "word": "الباقي",
+                "start": 8.32,
+                "end": 9.04,
+                "confidence": 0.81396484,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الباقي"
+              },
+              {
+                "word": "أستاذي",
+                "start": 9.36,
+                "end": 10.08,
+                "confidence": 0.7458496,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "أستاذي"
+              },
+              {
+                "word": "حياك",
+                "start": 10.08,
+                "end": 10.4,
+                "confidence": 0.39941406,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "حياك"
+              },
+              {
+                "word": "الله",
+                "start": 10.4,
+                "end": 10.8,
+                "confidence": 0.9873047,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الله"
+              },
+              {
+                "word": "اليوم",
+                "start": 10.8,
+                "end": 11.36,
+                "confidence": 0.68652344,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "اليوم"
+              },
+              {
+                "word": "مع",
+                "start": 11.679999,
+                "end": 11.92,
+                "confidence": 0.9838867,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "مع"
+              },
+              {
+                "word": "اشتداد",
+                "start": 11.92,
+                "end": 12.48,
+                "confidence": 0.89371747,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "اشتداد"
+              },
+              {
+                "word": "الحر",
+                "start": 12.48,
+                "end": 12.96,
+                "confidence": 0.99316406,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الحر"
+              },
+              {
+                "word": "ما",
+                "start": 12.96,
+                "end": 13.36,
+                "confidence": 0.640625,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "ما"
+              },
+              {
+                "word": "هي",
+                "start": 13.36,
+                "end": 14.48,
+                "confidence": 0.9013672,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "هي"
+              },
+              {
+                "word": "افضل",
+                "start": 13.945,
+                "end": 14.345,
+                "confidence": 0.4609375,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "افضل"
+              },
+              {
+                "word": "السلوكيات",
+                "start": 14.345,
+                "end": 15.065,
+                "confidence": 0.9604492,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "السلوكيات"
+              },
+              {
+                "word": "التي",
+                "start": 15.065,
+                "end": 15.545,
+                "confidence": 0.9741211,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "التي"
+              },
+              {
+                "word": "ممكن",
+                "start": 15.545,
+                "end": 15.945,
+                "confidence": 0.9589844,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "ممكن"
+              },
+              {
+                "word": "يقوم",
+                "start": 15.945,
+                "end": 16.345,
+                "confidence": 0.94140625,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "يقوم"
+              },
+              {
+                "word": "فيها",
+                "start": 16.345,
+                "end": 16.585,
+                "confidence": 0.9560547,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "فيها"
+              },
+              {
+                "word": "الحاج",
+                "start": 16.585,
+                "end": 16.985,
+                "confidence": 0.96972656,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الحاج"
+              },
+              {
+                "word": "خلال",
+                "start": 16.985,
+                "end": 17.225,
+                "confidence": 0.9970703,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "خلال"
+              },
+              {
+                "word": "هذا",
+                "start": 17.225,
+                "end": 17.465,
+                "confidence": 0.9941406,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "هذا"
+              },
+              {
+                "word": "الموسم",
+                "start": 17.465,
+                "end": 18.185,
+                "confidence": 0.99121094,
+                "speaker": 0,
+                "speaker_confidence": 0.39545196,
+                "punctuated_word": "الموسم"
+              },
+              {
+                "word": "حياك",
+                "start": 18.425,
+                "end": 18.825,
+                "confidence": 0.96777344,
+                "speaker": 0,
+                "speaker_confidence": 0.514933,
+                "punctuated_word": "حياك"
+              },
+              {
+                "word": "الله",
+                "start": 18.825,
+                "end": 19.064999,
+                "confidence": 1.0,
+                "speaker": 0,
+                "speaker_confidence": 0.514933,
+                "punctuated_word": "الله"
+              },
+              {
+                "word": "اخوي",
+                "start": 19.064999,
+                "end": 19.305,
+                "confidence": 0.5288086,
+                "speaker": 0,
+                "speaker_confidence": 0.514933,
+                "punctuated_word": "اخوي"
+              },
+              {
+                "word": "عبد",
+                "start": 19.305,
+                "end": 19.545,
+                "confidence": 0.9819336,
+                "speaker": 0,
+                "speaker_confidence": 0.514933,
+                "punctuated_word": "عبد"
+              },
+              {
+                "word": "العزيز",
+                "start": 19.545,
+                "end": 20.265,
+                "confidence": 0.99609375,
+                "speaker": 0,
+                "speaker_confidence": 0.514933,
+                "punctuated_word": "العزيز"
+              },
+              {
+                "word": "مهم",
+                "start": 20.744999,
+                "end": 21.384998,
+                "confidence": 0.9902344,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "مهم"
+              },
+              {
+                "word": "جدا",
+                "start": 21.785,
+                "end": 22.105,
+                "confidence": 0.9921875,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "جدا"
+              },
+              {
+                "word": "للحجاج",
+                "start": 22.105,
+                "end": 22.825,
+                "confidence": 0.9975586,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "للحجاج"
+              },
+              {
+                "word": "انهم",
+                "start": 22.825,
+                "end": 23.545,
+                "confidence": 0.9760742,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "انهم"
+              },
+              {
+                "word": "يشربوا",
+                "start": 23.545,
+                "end": 24.025,
+                "confidence": 0.97314453,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "يشربوا"
+              },
+              {
+                "word": "المياه",
+                "start": 24.025,
+                "end": 24.744999,
+                "confidence": 0.99902344,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "المياه"
+              },
+              {
+                "word": "قبل",
+                "start": 24.744999,
+                "end": 25.145,
+                "confidence": 0.99316406,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "قبل"
+              },
+              {
+                "word": "ان",
+                "start": 25.145,
+                "end": 25.305,
+                "confidence": 0.96972656,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "ان"
+              },
+              {
+                "word": "يعطشوا",
+                "start": 25.305,
+                "end": 26.744999,
+                "confidence": 0.9373779,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "يعطشوا"
+              },
+              {
+                "word": "ويستمروا",
+                "start": 26.39,
+                "end": 27.189999,
+                "confidence": 0.9791667,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "ويستمروا"
+              },
+              {
+                "word": "في",
+                "start": 27.189999,
+                "end": 27.269999,
+                "confidence": 0.9921875,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "في"
+              },
+              {
+                "word": "ترويتهم",
+                "start": 27.269999,
+                "end": 27.91,
+                "confidence": 0.9305013,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "ترويتهم"
+              },
+              {
+                "word": "يشربوا",
+                "start": 27.91,
+                "end": 28.31,
+                "confidence": 0.58032227,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "يشربوا"
+              },
+              {
+                "word": "المياه",
+                "start": 28.31,
+                "end": 29.029999,
+                "confidence": 0.9970703,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "المياه"
+              },
+              {
+                "word": "كذلك",
+                "start": 29.509998,
+                "end": 29.83,
+                "confidence": 0.9892578,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "كذلك"
+              },
+              {
+                "word": "انهم",
+                "start": 29.83,
+                "end": 30.31,
+                "confidence": 0.9165039,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "انهم"
+              },
+              {
+                "word": "يستخدموا",
+                "start": 30.31,
+                "end": 30.789999,
+                "confidence": 0.8347168,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "يستخدموا"
+              },
+              {
+                "word": "المظله",
+                "start": 30.789999,
+                "end": 31.27,
+                "confidence": 0.97835284,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "المظله"
+              },
+              {
+                "word": "تكون",
+                "start": 31.27,
+                "end": 31.43,
+                "confidence": 0.9580078,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "تكون"
+              },
+              {
+                "word": "فوق",
+                "start": 31.43,
+                "end": 31.669998,
+                "confidence": 0.9951172,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "فوق"
+              },
+              {
+                "word": "راسهم",
+                "start": 31.669998,
+                "end": 32.39,
+                "confidence": 0.9916992,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "راسهم"
+              },
+              {
+                "word": "وتجنب",
+                "start": 32.39,
+                "end": 33.11,
+                "confidence": 0.9902344,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "وتجنب"
+              },
+              {
+                "word": "اشعه",
+                "start": 33.11,
+                "end": 34.07,
+                "confidence": 0.9682617,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "اشعه"
+              },
+              {
+                "word": "الشمس",
+                "start": 34.07,
+                "end": 34.47,
+                "confidence": 0.94970703,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الشمس"
+              },
+              {
+                "word": "قدر",
+                "start": 34.47,
+                "end": 34.79,
+                "confidence": 0.9453125,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "قدر"
+              },
+              {
+                "word": "الامكان",
+                "start": 34.79,
+                "end": 35.59,
+                "confidence": 0.84716797,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الامكان"
+              },
+              {
+                "word": "كذلك",
+                "start": 35.91,
+                "end": 36.309998,
+                "confidence": 0.9980469,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "كذلك"
+              },
+              {
+                "word": "انهم",
+                "start": 36.309998,
+                "end": 36.55,
+                "confidence": 0.99316406,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "انهم"
+              },
+              {
+                "word": "يستضلوا",
+                "start": 36.55,
+                "end": 37.19,
+                "confidence": 0.9301758,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "يستضلوا"
+              },
+              {
+                "word": "في",
+                "start": 37.19,
+                "end": 37.35,
+                "confidence": 0.9902344,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "في"
+              },
+              {
+                "word": "الظل",
+                "start": 37.35,
+                "end": 37.67,
+                "confidence": 0.9980469,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الظل"
+              },
+              {
+                "word": "ويبتعدوا",
+                "start": 37.67,
+                "end": 38.55,
+                "confidence": 0.96533203,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "ويبتعدوا"
+              },
+              {
+                "word": "عن",
+                "start": 38.55,
+                "end": 38.71,
+                "confidence": 0.9970703,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "عن"
+              },
+              {
+                "word": "الاجهاد",
+                "start": 38.71,
+                "end": 39.11,
+                "confidence": 0.99121094,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الاجهاد"
+              },
+              {
+                "word": "الحراري",
+                "start": 39.11,
+                "end": 39.67,
+                "confidence": 0.9980469,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الحراري"
+              },
+              {
+                "word": "لحفاظا",
+                "start": 39.67,
+                "end": 40.309998,
+                "confidence": 0.864624,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "لحفاظا"
+              },
+              {
+                "word": "علي",
+                "start": 40.309998,
+                "end": 40.47,
+                "confidence": 0.99609375,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "علي"
+              },
+              {
+                "word": "صحتهم",
+                "start": 40.47,
+                "end": 41.27,
+                "confidence": 0.99853516,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "صحتهم"
+              },
+              {
+                "word": "واستخدام",
+                "start": 41.895,
+                "end": 42.614998,
+                "confidence": 0.53564453,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "واستخدام"
+              },
+              {
+                "word": "الكمامة",
+                "start": 42.614998,
+                "end": 43.175,
+                "confidence": 0.99658203,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الكمامة"
+              },
+              {
+                "word": "علي",
+                "start": 43.175,
+                "end": 43.495,
+                "confidence": 0.9614258,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "علي"
+              },
+              {
+                "word": "الوجه",
+                "start": 43.495,
+                "end": 44.135,
+                "confidence": 0.9970703,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الوجه"
+              },
+              {
+                "word": "في",
+                "start": 44.135,
+                "end": 44.454998,
+                "confidence": 0.9526367,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "في"
+              },
+              {
+                "word": "حالة",
+                "start": 44.454998,
+                "end": 44.855,
+                "confidence": 0.97998047,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "حالة"
+              },
+              {
+                "word": "الإزدحام",
+                "start": 44.855,
+                "end": 45.735,
+                "confidence": 0.93204755,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الإزدحام"
+              },
+              {
+                "word": "الشديد",
+                "start": 45.735,
+                "end": 46.535,
+                "confidence": 0.99902344,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الشديد"
+              },
+              {
+                "word": "مهم",
+                "start": 47.094997,
+                "end": 47.735,
+                "confidence": 0.58203125,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "مهم"
+              },
+              {
+                "word": "جدا",
+                "start": 47.735,
+                "end": 48.135,
+                "confidence": 0.37768555,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "جدا"
+              },
+              {
+                "word": "أنه",
+                "start": 48.135,
+                "end": 48.855,
+                "confidence": 0.4008789,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "أنه"
+              },
+              {
+                "word": "نتأكد",
+                "start": 48.855,
+                "end": 49.495,
+                "confidence": 0.89420575,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "نتأكد"
+              },
+              {
+                "word": "أنه",
+                "start": 49.495,
+                "end": 49.815,
+                "confidence": 0.9291992,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "أنه"
+              },
+              {
+                "word": "الحاج",
+                "start": 49.815,
+                "end": 50.614998,
+                "confidence": 0.9375,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الحاج"
+              },
+              {
+                "word": "يستمر",
+                "start": 50.855,
+                "end": 51.735,
+                "confidence": 0.9892578,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "يستمر"
+              },
+              {
+                "word": "في",
+                "start": 51.975,
+                "end": 52.214996,
+                "confidence": 0.93603516,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "في"
+              },
+              {
+                "word": "أداء",
+                "start": 52.214996,
+                "end": 52.535,
+                "confidence": 0.90527344,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "أداء"
+              },
+              {
+                "word": "مناسكه",
+                "start": 52.535,
+                "end": 53.254997,
+                "confidence": 0.97138673,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "مناسكه"
+              },
+              {
+                "word": "بطمأنينة",
+                "start": 53.254997,
+                "end": 55.015,
+                "confidence": 0.8538411,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "بطمأنينة"
+              },
+              {
+                "word": "و",
+                "start": 54.328938,
+                "end": 54.488937,
+                "confidence": 0.60424805,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "و"
+              },
+              {
+                "word": "سهولة",
+                "start": 54.488937,
+                "end": 54.968937,
+                "confidence": 0.96875,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "سهولة"
+              },
+              {
+                "word": "و",
+                "start": 54.968937,
+                "end": 55.448936,
+                "confidence": 0.9572754,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "و"
+              },
+              {
+                "word": "مأمونية",
+                "start": 55.448936,
+                "end": 56.168934,
+                "confidence": 0.94863284,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "مأمونية"
+              },
+              {
+                "word": "و",
+                "start": 56.168934,
+                "end": 56.488937,
+                "confidence": 0.91625977,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "و"
+              },
+              {
+                "word": "سلامة",
+                "start": 56.488937,
+                "end": 57.288937,
+                "confidence": 0.859375,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "سلامة"
+              },
+              {
+                "word": "باتباع",
+                "start": 57.288937,
+                "end": 57.768936,
+                "confidence": 0.78637695,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "باتباع"
+              },
+              {
+                "word": "هذه",
+                "start": 57.768936,
+                "end": 58.088936,
+                "confidence": 0.97265625,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "هذه"
+              },
+              {
+                "word": "الإرشادات",
+                "start": 58.088936,
+                "end": 59.048935,
+                "confidence": 0.9772949,
+                "speaker": 0,
+                "speaker_confidence": 0.5178221,
+                "punctuated_word": "الإرشادات"
+              },
+              {
+                "word": "شكرا",
+                "start": 60.168938,
+                "end": 60.888935,
+                "confidence": 0.5385742,
+                "speaker": 0,
+                "speaker_confidence": 0.39218402,
+                "punctuated_word": "شكرا"
+              },
+              {
+                "word": "أوك",
+                "start": 63.288937,
+                "end": 64.088936,
+                "confidence": 0.60424805,
+                "speaker": 0,
+                "speaker_confidence": 0.3948282,
+                "punctuated_word": "أوك"
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: عدنا لكم متابعينا الأعزاء ضيفي وظيفةكم السعادة المتحدة الرسمي لمزارة الصحة في موسم الحج الأستاذ عبدالعزيز عبد الباقي أستاذي حياك الله اليوم مع اشتداد الحر ما هي افضل السلوكيات التي ممكن يقوم فيها الحاج خلال هذا الموسم حياك الله اخوي عبد العزيز مهم جدا للحجاج انهم يشربوا المياه قبل ان يعطشوا ويستمروا في ترويتهم يشربوا المياه كذلك انهم يستخدموا المظله تكون فوق راسهم وتجنب اشعه الشمس قدر الامكان كذلك انهم يستضلوا في الظل ويبتعدوا عن الاجهاد الحراري لحفاظا علي صحتهم واستخدام الكمامة علي الوجه في حالة الإزدحام الشديد مهم جدا أنه نتأكد أنه الحاج يستمر في أداء مناسكه بطمأنينة و سهولة و مأمونية و سلامة باتباع هذه الإرشادات شكرا أوك",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "عدنا لكم متابعينا الأعزاء ضيفي وظيفةكم السعادة المتحدة الرسمي لمزارة الصحة في موسم الحج الأستاذ عبدالعزيز عبد الباقي أستاذي حياك الله اليوم مع اشتداد الحر ما هي افضل السلوكيات التي ممكن يقوم فيها الحاج خلال هذا الموسم حياك الله اخوي عبد العزيز مهم جدا للحجاج انهم يشربوا المياه قبل ان يعطشوا ويستمروا في ترويتهم يشربوا المياه كذلك انهم يستخدموا المظله تكون فوق راسهم وتجنب اشعه الشمس قدر الامكان كذلك انهم يستضلوا في الظل ويبتعدوا عن الاجهاد الحراري لحفاظا علي صحتهم واستخدام الكمامة علي الوجه في حالة الإزدحام الشديد مهم جدا أنه نتأكد أنه الحاج يستمر في أداء مناسكه بطمأنينة و سهولة و مأمونية و سلامة باتباع هذه الإرشادات شكرا أوك",
+                      "start": 0.48,
+                      "end": 64.088936
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 110,
+                  "start": 0.48,
+                  "end": 64.088936
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.48,
+        "end": 5.3599997,
+        "confidence": 0.78132325,
+        "channel": 0,
+        "transcript": "عدنا لكم متابعينا الأعزاء ضيفي وظيفةكم السعادة المتحدة الرسمي لمزارة",
+        "words": [
+          {
+            "word": "عدنا",
+            "start": 0.48,
+            "end": 0.88,
+            "confidence": 0.9003906,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "عدنا"
+          },
+          {
+            "word": "لكم",
+            "start": 0.88,
+            "end": 1.1999999,
+            "confidence": 0.9790039,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "لكم"
+          },
+          {
+            "word": "متابعينا",
+            "start": 1.1999999,
+            "end": 1.76,
+            "confidence": 0.7788086,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "متابعينا"
+          },
+          {
+            "word": "الأعزاء",
+            "start": 1.76,
+            "end": 2.24,
+            "confidence": 0.9404297,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الأعزاء"
+          },
+          {
+            "word": "ضيفي",
+            "start": 2.24,
+            "end": 2.72,
+            "confidence": 0.87719727,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "ضيفي"
+          },
+          {
+            "word": "وظيفةكم",
+            "start": 2.72,
+            "end": 3.1999998,
+            "confidence": 0.642334,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "وظيفةكم"
+          },
+          {
+            "word": "السعادة",
+            "start": 3.1999998,
+            "end": 3.52,
+            "confidence": 0.23657227,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "السعادة"
+          },
+          {
+            "word": "المتحدة",
+            "start": 3.52,
+            "end": 4.08,
+            "confidence": 0.71240234,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "المتحدة"
+          },
+          {
+            "word": "الرسمي",
+            "start": 4.08,
+            "end": 4.48,
+            "confidence": 0.9863281,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الرسمي"
+          },
+          {
+            "word": "لمزارة",
+            "start": 4.48,
+            "end": 5.3599997,
+            "confidence": 0.7597656,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "لمزارة"
+          }
+        ],
+        "speaker": 0,
+        "id": "62160901-ac83-457a-a128-dd6d2b51d4a7"
+      },
+      {
+        "start": 5.3599997,
+        "end": 9.04,
+        "confidence": 0.78067017,
+        "channel": 0,
+        "transcript": "الصحة في موسم الحج الأستاذ عبدالعزيز عبد الباقي",
+        "words": [
+          {
+            "word": "الصحة",
+            "start": 5.3599997,
+            "end": 6.08,
+            "confidence": 0.5888672,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الصحة"
+          },
+          {
+            "word": "في",
+            "start": 6.08,
+            "end": 6.3999996,
+            "confidence": 0.91259766,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "في"
+          },
+          {
+            "word": "موسم",
+            "start": 6.3999996,
+            "end": 6.7999997,
+            "confidence": 1.0,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "موسم"
+          },
+          {
+            "word": "الحج",
+            "start": 6.7999997,
+            "end": 7.12,
+            "confidence": 0.96972656,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الحج"
+          },
+          {
+            "word": "الأستاذ",
+            "start": 7.12,
+            "end": 7.52,
+            "confidence": 0.8833008,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الأستاذ"
+          },
+          {
+            "word": "عبدالعزيز",
+            "start": 7.52,
+            "end": 8.0,
+            "confidence": 0.65625,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "عبدالعزيز"
+          },
+          {
+            "word": "عبد",
+            "start": 8.0,
+            "end": 8.32,
+            "confidence": 0.4206543,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "عبد"
+          },
+          {
+            "word": "الباقي",
+            "start": 8.32,
+            "end": 9.04,
+            "confidence": 0.81396484,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الباقي"
+          }
+        ],
+        "speaker": 0,
+        "id": "4b81d858-4a18-4cdf-891d-48b0d6ab12fc"
+      },
+      {
+        "start": 9.36,
+        "end": 11.36,
+        "confidence": 0.70477295,
+        "channel": 0,
+        "transcript": "أستاذي حياك الله اليوم",
+        "words": [
+          {
+            "word": "أستاذي",
+            "start": 9.36,
+            "end": 10.08,
+            "confidence": 0.7458496,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "أستاذي"
+          },
+          {
+            "word": "حياك",
+            "start": 10.08,
+            "end": 10.4,
+            "confidence": 0.39941406,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "حياك"
+          },
+          {
+            "word": "الله",
+            "start": 10.4,
+            "end": 10.8,
+            "confidence": 0.9873047,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الله"
+          },
+          {
+            "word": "اليوم",
+            "start": 10.8,
+            "end": 11.36,
+            "confidence": 0.68652344,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "اليوم"
+          }
+        ],
+        "speaker": 0,
+        "id": "6d22c377-5776-4ec2-aaaf-fe28325b45f6"
+      },
+      {
+        "start": 11.679999,
+        "end": 18.185,
+        "confidence": 0.90779084,
+        "channel": 0,
+        "transcript": "مع اشتداد الحر ما هي افضل السلوكيات التي ممكن يقوم فيها الحاج خلال هذا الموسم",
+        "words": [
+          {
+            "word": "مع",
+            "start": 11.679999,
+            "end": 11.92,
+            "confidence": 0.9838867,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "مع"
+          },
+          {
+            "word": "اشتداد",
+            "start": 11.92,
+            "end": 12.48,
+            "confidence": 0.89371747,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "اشتداد"
+          },
+          {
+            "word": "الحر",
+            "start": 12.48,
+            "end": 12.96,
+            "confidence": 0.99316406,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الحر"
+          },
+          {
+            "word": "ما",
+            "start": 12.96,
+            "end": 13.36,
+            "confidence": 0.640625,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "ما"
+          },
+          {
+            "word": "هي",
+            "start": 13.36,
+            "end": 14.48,
+            "confidence": 0.9013672,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "هي"
+          },
+          {
+            "word": "افضل",
+            "start": 13.945,
+            "end": 14.345,
+            "confidence": 0.4609375,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "افضل"
+          },
+          {
+            "word": "السلوكيات",
+            "start": 14.345,
+            "end": 15.065,
+            "confidence": 0.9604492,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "السلوكيات"
+          },
+          {
+            "word": "التي",
+            "start": 15.065,
+            "end": 15.545,
+            "confidence": 0.9741211,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "التي"
+          },
+          {
+            "word": "ممكن",
+            "start": 15.545,
+            "end": 15.945,
+            "confidence": 0.9589844,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "ممكن"
+          },
+          {
+            "word": "يقوم",
+            "start": 15.945,
+            "end": 16.345,
+            "confidence": 0.94140625,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "يقوم"
+          },
+          {
+            "word": "فيها",
+            "start": 16.345,
+            "end": 16.585,
+            "confidence": 0.9560547,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "فيها"
+          },
+          {
+            "word": "الحاج",
+            "start": 16.585,
+            "end": 16.985,
+            "confidence": 0.96972656,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الحاج"
+          },
+          {
+            "word": "خلال",
+            "start": 16.985,
+            "end": 17.225,
+            "confidence": 0.9970703,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "خلال"
+          },
+          {
+            "word": "هذا",
+            "start": 17.225,
+            "end": 17.465,
+            "confidence": 0.9941406,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "هذا"
+          },
+          {
+            "word": "الموسم",
+            "start": 17.465,
+            "end": 18.185,
+            "confidence": 0.99121094,
+            "speaker": 0,
+            "speaker_confidence": 0.39545196,
+            "punctuated_word": "الموسم"
+          }
+        ],
+        "speaker": 0,
+        "id": "b57d84b0-0b8d-4e29-be4c-f6417b0cef71"
+      },
+      {
+        "start": 18.425,
+        "end": 20.265,
+        "confidence": 0.8949219,
+        "channel": 0,
+        "transcript": "حياك الله اخوي عبد العزيز",
+        "words": [
+          {
+            "word": "حياك",
+            "start": 18.425,
+            "end": 18.825,
+            "confidence": 0.96777344,
+            "speaker": 0,
+            "speaker_confidence": 0.514933,
+            "punctuated_word": "حياك"
+          },
+          {
+            "word": "الله",
+            "start": 18.825,
+            "end": 19.064999,
+            "confidence": 1.0,
+            "speaker": 0,
+            "speaker_confidence": 0.514933,
+            "punctuated_word": "الله"
+          },
+          {
+            "word": "اخوي",
+            "start": 19.064999,
+            "end": 19.305,
+            "confidence": 0.5288086,
+            "speaker": 0,
+            "speaker_confidence": 0.514933,
+            "punctuated_word": "اخوي"
+          },
+          {
+            "word": "عبد",
+            "start": 19.305,
+            "end": 19.545,
+            "confidence": 0.9819336,
+            "speaker": 0,
+            "speaker_confidence": 0.514933,
+            "punctuated_word": "عبد"
+          },
+          {
+            "word": "العزيز",
+            "start": 19.545,
+            "end": 20.265,
+            "confidence": 0.99609375,
+            "speaker": 0,
+            "speaker_confidence": 0.514933,
+            "punctuated_word": "العزيز"
+          }
+        ],
+        "speaker": 0,
+        "id": "24c31321-b9bf-45bb-8870-6991a9f94188"
+      },
+      {
+        "start": 20.744999,
+        "end": 21.384998,
+        "confidence": 0.9902344,
+        "channel": 0,
+        "transcript": "مهم",
+        "words": [
+          {
+            "word": "مهم",
+            "start": 20.744999,
+            "end": 21.384998,
+            "confidence": 0.9902344,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "مهم"
+          }
+        ],
+        "speaker": 0,
+        "id": "d9502d5f-043a-4a59-b0ee-a64b5c6dc2ca"
+      },
+      {
+        "start": 21.785,
+        "end": 26.744999,
+        "confidence": 0.9797821,
+        "channel": 0,
+        "transcript": "جدا للحجاج انهم يشربوا المياه قبل ان يعطشوا",
+        "words": [
+          {
+            "word": "جدا",
+            "start": 21.785,
+            "end": 22.105,
+            "confidence": 0.9921875,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "جدا"
+          },
+          {
+            "word": "للحجاج",
+            "start": 22.105,
+            "end": 22.825,
+            "confidence": 0.9975586,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "للحجاج"
+          },
+          {
+            "word": "انهم",
+            "start": 22.825,
+            "end": 23.545,
+            "confidence": 0.9760742,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "انهم"
+          },
+          {
+            "word": "يشربوا",
+            "start": 23.545,
+            "end": 24.025,
+            "confidence": 0.97314453,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "يشربوا"
+          },
+          {
+            "word": "المياه",
+            "start": 24.025,
+            "end": 24.744999,
+            "confidence": 0.99902344,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "المياه"
+          },
+          {
+            "word": "قبل",
+            "start": 24.744999,
+            "end": 25.145,
+            "confidence": 0.99316406,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "قبل"
+          },
+          {
+            "word": "ان",
+            "start": 25.145,
+            "end": 25.305,
+            "confidence": 0.96972656,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "ان"
+          },
+          {
+            "word": "يعطشوا",
+            "start": 25.305,
+            "end": 26.744999,
+            "confidence": 0.9373779,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "يعطشوا"
+          }
+        ],
+        "speaker": 0,
+        "id": "e28cadaf-b23b-4fdc-950c-8ee81aa0aac5"
+      },
+      {
+        "start": 26.39,
+        "end": 29.029999,
+        "confidence": 0.8958496,
+        "channel": 0,
+        "transcript": "ويستمروا في ترويتهم يشربوا المياه",
+        "words": [
+          {
+            "word": "ويستمروا",
+            "start": 26.39,
+            "end": 27.189999,
+            "confidence": 0.9791667,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "ويستمروا"
+          },
+          {
+            "word": "في",
+            "start": 27.189999,
+            "end": 27.269999,
+            "confidence": 0.9921875,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "في"
+          },
+          {
+            "word": "ترويتهم",
+            "start": 27.269999,
+            "end": 27.91,
+            "confidence": 0.9305013,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "ترويتهم"
+          },
+          {
+            "word": "يشربوا",
+            "start": 27.91,
+            "end": 28.31,
+            "confidence": 0.58032227,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "يشربوا"
+          },
+          {
+            "word": "المياه",
+            "start": 28.31,
+            "end": 29.029999,
+            "confidence": 0.9970703,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "المياه"
+          }
+        ],
+        "speaker": 0,
+        "id": "1185698a-19c2-4d72-83ae-ae1b0641d649"
+      },
+      {
+        "start": 29.509998,
+        "end": 34.07,
+        "confidence": 0.9580168,
+        "channel": 0,
+        "transcript": "كذلك انهم يستخدموا المظله تكون فوق راسهم وتجنب اشعه",
+        "words": [
+          {
+            "word": "كذلك",
+            "start": 29.509998,
+            "end": 29.83,
+            "confidence": 0.9892578,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "كذلك"
+          },
+          {
+            "word": "انهم",
+            "start": 29.83,
+            "end": 30.31,
+            "confidence": 0.9165039,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "انهم"
+          },
+          {
+            "word": "يستخدموا",
+            "start": 30.31,
+            "end": 30.789999,
+            "confidence": 0.8347168,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "يستخدموا"
+          },
+          {
+            "word": "المظله",
+            "start": 30.789999,
+            "end": 31.27,
+            "confidence": 0.97835284,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "المظله"
+          },
+          {
+            "word": "تكون",
+            "start": 31.27,
+            "end": 31.43,
+            "confidence": 0.9580078,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "تكون"
+          },
+          {
+            "word": "فوق",
+            "start": 31.43,
+            "end": 31.669998,
+            "confidence": 0.9951172,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "فوق"
+          },
+          {
+            "word": "راسهم",
+            "start": 31.669998,
+            "end": 32.39,
+            "confidence": 0.9916992,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "راسهم"
+          },
+          {
+            "word": "وتجنب",
+            "start": 32.39,
+            "end": 33.11,
+            "confidence": 0.9902344,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "وتجنب"
+          },
+          {
+            "word": "اشعه",
+            "start": 33.11,
+            "end": 34.07,
+            "confidence": 0.9682617,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "اشعه"
+          }
+        ],
+        "speaker": 0,
+        "id": "f4d2b926-e532-4b39-99b1-b180ede2efde"
+      },
+      {
+        "start": 34.07,
+        "end": 35.59,
+        "confidence": 0.9140625,
+        "channel": 0,
+        "transcript": "الشمس قدر الامكان",
+        "words": [
+          {
+            "word": "الشمس",
+            "start": 34.07,
+            "end": 34.47,
+            "confidence": 0.94970703,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الشمس"
+          },
+          {
+            "word": "قدر",
+            "start": 34.47,
+            "end": 34.79,
+            "confidence": 0.9453125,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "قدر"
+          },
+          {
+            "word": "الامكان",
+            "start": 34.79,
+            "end": 35.59,
+            "confidence": 0.84716797,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الامكان"
+          }
+        ],
+        "speaker": 0,
+        "id": "8f024068-a116-45b9-acf4-8f651705f24c"
+      },
+      {
+        "start": 35.91,
+        "end": 38.55,
+        "confidence": 0.9791667,
+        "channel": 0,
+        "transcript": "كذلك انهم يستضلوا في الظل ويبتعدوا",
+        "words": [
+          {
+            "word": "كذلك",
+            "start": 35.91,
+            "end": 36.309998,
+            "confidence": 0.9980469,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "كذلك"
+          },
+          {
+            "word": "انهم",
+            "start": 36.309998,
+            "end": 36.55,
+            "confidence": 0.99316406,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "انهم"
+          },
+          {
+            "word": "يستضلوا",
+            "start": 36.55,
+            "end": 37.19,
+            "confidence": 0.9301758,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "يستضلوا"
+          },
+          {
+            "word": "في",
+            "start": 37.19,
+            "end": 37.35,
+            "confidence": 0.9902344,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "في"
+          },
+          {
+            "word": "الظل",
+            "start": 37.35,
+            "end": 37.67,
+            "confidence": 0.9980469,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الظل"
+          },
+          {
+            "word": "ويبتعدوا",
+            "start": 37.67,
+            "end": 38.55,
+            "confidence": 0.96533203,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "ويبتعدوا"
+          }
+        ],
+        "speaker": 0,
+        "id": "3d2196a4-55e9-45a5-8350-29f840c1795c"
+      },
+      {
+        "start": 38.55,
+        "end": 41.27,
+        "confidence": 0.9742635,
+        "channel": 0,
+        "transcript": "عن الاجهاد الحراري لحفاظا علي صحتهم",
+        "words": [
+          {
+            "word": "عن",
+            "start": 38.55,
+            "end": 38.71,
+            "confidence": 0.9970703,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "عن"
+          },
+          {
+            "word": "الاجهاد",
+            "start": 38.71,
+            "end": 39.11,
+            "confidence": 0.99121094,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الاجهاد"
+          },
+          {
+            "word": "الحراري",
+            "start": 39.11,
+            "end": 39.67,
+            "confidence": 0.9980469,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الحراري"
+          },
+          {
+            "word": "لحفاظا",
+            "start": 39.67,
+            "end": 40.309998,
+            "confidence": 0.864624,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "لحفاظا"
+          },
+          {
+            "word": "علي",
+            "start": 40.309998,
+            "end": 40.47,
+            "confidence": 0.99609375,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "علي"
+          },
+          {
+            "word": "صحتهم",
+            "start": 40.47,
+            "end": 41.27,
+            "confidence": 0.99853516,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "صحتهم"
+          }
+        ],
+        "speaker": 0,
+        "id": "f11cc8a6-e6cc-49ef-9184-2c18eb90c05a"
+      },
+      {
+        "start": 41.895,
+        "end": 45.735,
+        "confidence": 0.90791243,
+        "channel": 0,
+        "transcript": "واستخدام الكمامة علي الوجه في حالة الإزدحام",
+        "words": [
+          {
+            "word": "واستخدام",
+            "start": 41.895,
+            "end": 42.614998,
+            "confidence": 0.53564453,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "واستخدام"
+          },
+          {
+            "word": "الكمامة",
+            "start": 42.614998,
+            "end": 43.175,
+            "confidence": 0.99658203,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الكمامة"
+          },
+          {
+            "word": "علي",
+            "start": 43.175,
+            "end": 43.495,
+            "confidence": 0.9614258,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "علي"
+          },
+          {
+            "word": "الوجه",
+            "start": 43.495,
+            "end": 44.135,
+            "confidence": 0.9970703,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الوجه"
+          },
+          {
+            "word": "في",
+            "start": 44.135,
+            "end": 44.454998,
+            "confidence": 0.9526367,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "في"
+          },
+          {
+            "word": "حالة",
+            "start": 44.454998,
+            "end": 44.855,
+            "confidence": 0.97998047,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "حالة"
+          },
+          {
+            "word": "الإزدحام",
+            "start": 44.855,
+            "end": 45.735,
+            "confidence": 0.93204755,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الإزدحام"
+          }
+        ],
+        "speaker": 0,
+        "id": "e3b773fa-f951-43ca-b000-d4a0be126e6d"
+      },
+      {
+        "start": 45.735,
+        "end": 46.535,
+        "confidence": 0.99902344,
+        "channel": 0,
+        "transcript": "الشديد",
+        "words": [
+          {
+            "word": "الشديد",
+            "start": 45.735,
+            "end": 46.535,
+            "confidence": 0.99902344,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الشديد"
+          }
+        ],
+        "speaker": 0,
+        "id": "4a460ee0-3be5-46d5-aafd-1c5174ef55fa"
+      },
+      {
+        "start": 47.094997,
+        "end": 50.614998,
+        "confidence": 0.6869168,
+        "channel": 0,
+        "transcript": "مهم جدا أنه نتأكد أنه الحاج",
+        "words": [
+          {
+            "word": "مهم",
+            "start": 47.094997,
+            "end": 47.735,
+            "confidence": 0.58203125,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "مهم"
+          },
+          {
+            "word": "جدا",
+            "start": 47.735,
+            "end": 48.135,
+            "confidence": 0.37768555,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "جدا"
+          },
+          {
+            "word": "أنه",
+            "start": 48.135,
+            "end": 48.855,
+            "confidence": 0.4008789,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "أنه"
+          },
+          {
+            "word": "نتأكد",
+            "start": 48.855,
+            "end": 49.495,
+            "confidence": 0.89420575,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "نتأكد"
+          },
+          {
+            "word": "أنه",
+            "start": 49.495,
+            "end": 49.815,
+            "confidence": 0.9291992,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "أنه"
+          },
+          {
+            "word": "الحاج",
+            "start": 49.815,
+            "end": 50.614998,
+            "confidence": 0.9375,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الحاج"
+          }
+        ],
+        "speaker": 0,
+        "id": "39e1ed81-8c4c-4c39-aff1-81125cbe1890"
+      },
+      {
+        "start": 50.855,
+        "end": 51.735,
+        "confidence": 0.9892578,
+        "channel": 0,
+        "transcript": "يستمر",
+        "words": [
+          {
+            "word": "يستمر",
+            "start": 50.855,
+            "end": 51.735,
+            "confidence": 0.9892578,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "يستمر"
+          }
+        ],
+        "speaker": 0,
+        "id": "df422ce5-99a4-4fb9-a947-ab7a76eaf59f"
+      },
+      {
+        "start": 51.975,
+        "end": 55.015,
+        "confidence": 0.9166341,
+        "channel": 0,
+        "transcript": "في أداء مناسكه بطمأنينة",
+        "words": [
+          {
+            "word": "في",
+            "start": 51.975,
+            "end": 52.214996,
+            "confidence": 0.93603516,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "في"
+          },
+          {
+            "word": "أداء",
+            "start": 52.214996,
+            "end": 52.535,
+            "confidence": 0.90527344,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "أداء"
+          },
+          {
+            "word": "مناسكه",
+            "start": 52.535,
+            "end": 53.254997,
+            "confidence": 0.97138673,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "مناسكه"
+          },
+          {
+            "word": "بطمأنينة",
+            "start": 53.254997,
+            "end": 55.015,
+            "confidence": 0.8538411,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "بطمأنينة"
+          }
+        ],
+        "speaker": 0,
+        "id": "afaae85d-6031-4859-8252-e915aff10660"
+      },
+      {
+        "start": 54.328938,
+        "end": 59.048935,
+        "confidence": 0.88787436,
+        "channel": 0,
+        "transcript": "و سهولة و مأمونية و سلامة باتباع هذه الإرشادات",
+        "words": [
+          {
+            "word": "و",
+            "start": 54.328938,
+            "end": 54.488937,
+            "confidence": 0.60424805,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "و"
+          },
+          {
+            "word": "سهولة",
+            "start": 54.488937,
+            "end": 54.968937,
+            "confidence": 0.96875,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "سهولة"
+          },
+          {
+            "word": "و",
+            "start": 54.968937,
+            "end": 55.448936,
+            "confidence": 0.9572754,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "و"
+          },
+          {
+            "word": "مأمونية",
+            "start": 55.448936,
+            "end": 56.168934,
+            "confidence": 0.94863284,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "مأمونية"
+          },
+          {
+            "word": "و",
+            "start": 56.168934,
+            "end": 56.488937,
+            "confidence": 0.91625977,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "و"
+          },
+          {
+            "word": "سلامة",
+            "start": 56.488937,
+            "end": 57.288937,
+            "confidence": 0.859375,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "سلامة"
+          },
+          {
+            "word": "باتباع",
+            "start": 57.288937,
+            "end": 57.768936,
+            "confidence": 0.78637695,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "باتباع"
+          },
+          {
+            "word": "هذه",
+            "start": 57.768936,
+            "end": 58.088936,
+            "confidence": 0.97265625,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "هذه"
+          },
+          {
+            "word": "الإرشادات",
+            "start": 58.088936,
+            "end": 59.048935,
+            "confidence": 0.9772949,
+            "speaker": 0,
+            "speaker_confidence": 0.5178221,
+            "punctuated_word": "الإرشادات"
+          }
+        ],
+        "speaker": 0,
+        "id": "adad82a9-4ad7-435e-b1c3-26b7a25c8e19"
+      },
+      {
+        "start": 60.168938,
+        "end": 60.888935,
+        "confidence": 0.5385742,
+        "channel": 0,
+        "transcript": "شكرا",
+        "words": [
+          {
+            "word": "شكرا",
+            "start": 60.168938,
+            "end": 60.888935,
+            "confidence": 0.5385742,
+            "speaker": 0,
+            "speaker_confidence": 0.39218402,
+            "punctuated_word": "شكرا"
+          }
+        ],
+        "speaker": 0,
+        "id": "e3c77a43-96d2-4d05-a1b2-6b50791e3bbe"
+      },
+      {
+        "start": 63.288937,
+        "end": 64.088936,
+        "confidence": 0.60424805,
+        "channel": 0,
+        "transcript": "أوك",
+        "words": [
+          {
+            "word": "أوك",
+            "start": 63.288937,
+            "end": 64.088936,
+            "confidence": 0.60424805,
+            "speaker": 0,
+            "speaker_confidence": 0.3948282,
+            "punctuated_word": "أوك"
+          }
+        ],
+        "speaker": 0,
+        "id": "58259697-94c2-4454-9f31-064f6db58f62"
+      }
+    ]
+  }
+}
