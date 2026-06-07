@@ -1,0 +1,65 @@
+# Tool-to-factor expectation map for Phase 1.
+# The Excel rubric remains the source for criteria. This file states which tool is expected
+# to contribute to each signal family so reports can rank tool usefulness.
+
+mediapipe:
+  strengths:
+    - body_movement
+    - hand_movement
+    - face_visibility
+    - posture
+    - blink_rate
+    - smile_rate
+  limitations:
+    - transcript
+    - semantic_context
+    - speaker_diarization
+
+hume:
+  strengths:
+    - facial_expression
+    - vocal_expression
+    - emotional_intensity_timeline
+  limitations:
+    - final_personality_judgment
+    - business_scoring
+
+aws_rekognition:
+  strengths:
+    - face_detection
+    - person_tracking
+    - activity_labels
+    - timeline_events
+  limitations:
+    - detailed_gesture
+    - transcript
+
+azure_video_indexer:
+  strengths:
+    - transcript
+    - speaker_timing
+    - topics
+    - timeline_events
+    - visual_insights
+  limitations:
+    - detailed_body_gesture
+
+openai:
+  strengths:
+    - transcript
+    - text_context
+    - filler_words
+    - message_structure
+    - answer_strategy
+  limitations:
+    - raw_body_landmarks
+
+deepgram:
+  strengths:
+    - transcript
+    - timestamps
+    - diarization
+    - pauses
+  limitations:
+    - body_language
+    - visual_expression

@@ -1,0 +1,56 @@
+# macOS / editor noise
+.DS_Store
+*.swp
+*.swo
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+
+# Raw input media: keep these local, do not push to Git
+Videos/
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.AVI
+*.mkv
+*.MKV
+*.webm
+*.WEBM
+
+# Generated images / sampled frames
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+phase1_validation/samples/*/frames/
+
+# Generated audio extracted from videos
+*.mp3
+*.wav
+*.m4a
+phase1_validation/samples/*/audio.mp3
+
+# Generated sample video copies
+phase1_validation/samples/*/input.mp4
+
+# Tool outputs and generated reports
+phase1_validation/outputs/
+phase1_validation/reports/
+
+# Local model downloads can be large and reproducible
+phase1_validation/models/

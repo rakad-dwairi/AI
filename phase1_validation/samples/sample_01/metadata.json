@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_01",
+  "video_file": "input.mp4",
+  "language": "ar",
+  "video_type": "interview",
+  "source": null,
+  "speaker_name": null,
+  "duration_seconds": null,
+  "quality_notes": null,
+  "full_body_visible": null,
+  "face_clear": null,
+  "background_noise": null,
+  "expected_duration_seconds": 60.0
+}
